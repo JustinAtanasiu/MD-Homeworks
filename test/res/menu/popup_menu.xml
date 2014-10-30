@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >  
+  
+    <item  
+        android:id="@+id/one"  
+        android:title="Background 1"
+        android:icon="@drawable/bg1"
+        android:showAsAction="always|withText"/>  
+      
+    <item  
+        android:id="@+id/two"  
+        android:title="Background 2"
+        android:icon="@drawable/bg2"
+        android:showAsAction="always|withText"/>  
+        
+    <item  
+        android:id="@+id/three"  
+        android:title="Background3"
+        android:icon="@drawable/bg3"
+        android:showAsAction="always|withText"/>
+    
+    <item  
+        android:id="@+id/four"  
+        android:title="Background 4"
+        android:icon="@drawable/funappbackground"
+        android:showAsAction="always|withText"/>  
+    
+          
+</menu>  
